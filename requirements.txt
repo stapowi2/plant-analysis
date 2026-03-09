@@ -1,0 +1,7 @@
+ultralytics
+fastapi
+uvicorn
+pyTelegramBotAPI
+opencv-contrib-python
+requests
+python-multipart
